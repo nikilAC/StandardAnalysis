@@ -5,3 +5,10 @@ numpy
 time
 pyodbc
 matplotlib
+st_aggrid
+connectorx
+boto3
+io
+os
+itables
+matplotlib
