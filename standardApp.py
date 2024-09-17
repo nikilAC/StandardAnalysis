@@ -4,14 +4,7 @@ import pandas as pd
 import numpy as np
 import plotly.express as px
 import plotly.graph_objects as go
-import matplotlib.pyplot as plt
-from st_aggrid import AgGrid
-import connectorx as cx
 
-
-
-# time module (for constantly rerunning the script)
-import time
 
 # SQL Connection module
 import pyodbc
