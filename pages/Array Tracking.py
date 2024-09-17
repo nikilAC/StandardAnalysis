@@ -9,8 +9,6 @@ from plotly.subplots import make_subplots
 import itables 
 from st_aggrid import AgGrid
 
-# time module (for constantly rerunning the script)
-import time
 
 # SQL Connection module
 import pyodbc
